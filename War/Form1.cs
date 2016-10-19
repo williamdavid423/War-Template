@@ -12,7 +12,7 @@ namespace War
 {
     public partial class Form1 : Form
     {
-        //random generator for picking new cards  
+        //random generator for picking new cards   
 
         //variables to hold card values 
 
