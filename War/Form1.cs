@@ -26,6 +26,10 @@ namespace War
 
         private void warButton_Click(object sender, EventArgs e)
         {
+            //clear card back images
+            playerCardLabel.Image = null;
+            cpuCardLabel.Image = null;
+
             //get random value between 1 and 10 for both player and cpu
 
             
